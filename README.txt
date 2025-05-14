@@ -20,6 +20,7 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
+
 	Demo Images:
 		Unsplash (unsplash.com)
 
@@ -30,3 +31,9 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+
+
+![alt_image](https://github.com/Nitin9304/NitinTheDataScientist.github.io/blob/2e65c33e72c3eaf775fe2da1ed1b18b518b46326/heart.jpg)
